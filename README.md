@@ -2,7 +2,7 @@
 
 ### Hi hi everyone! I figured it was about time that I made an easy to access compendium of all of my guides and content for Stable Diffusion, seeing as its growing steadily!
 
-### If you'd like to support me and my work, please consider dropping by my [Ko-Fi](https://ko-fi.com/arkitecc) or signing up for Runpod using this link: [Arki's Easy SD-WebUI](https://runpod.io/gsc?template=2zlpsxev91&ref=borq1onw) it includes my bash script suite which will allow you to get SD-WebUI (formerly HLKY) running with a single web terminal command! Guide for how to get that going [here](https://stablediffusionguides.carrd.co/#three)!
+### If you'd like to support me and my work, please consider dropping by my [Ko-Fi](https://ko-fi.com/arkitecc) or signing up for Runpod using this link: [Arki's Easy SD-WebUI](https://runpod.io/gsc?template=2zlpsxev91&ref=borq1onw) it includes my bash script suite which will allow you to get SD-WebUI running with a single web terminal command! Guide for how to get that going [here](https://stablediffusionguides.carrd.co/#three)!
 
 ## 📔 [Stable Diffusion Installation Guides (SD-WebUI, LStein, Basujindal)](https://stablediffusionguides.carrd.co/) 
   ### Get Stable Diffusion running quickly on your local hardware with this guide!
