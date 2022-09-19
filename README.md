@@ -13,5 +13,5 @@
 ## 📔 [Arki's SD-WebUI Bash Suite](https://github.com/Arkitecc/sd-webui-bash-suite)
   ### Have a budget for cloud compute? Get SD-WebUI running on the Runpod cloud with a single command in a web console! Includes scripts for staying up to date, and installing Textual Inversion embedding support as well!
   
-  ## 📔 [Automatic Google Drive Backup of Stable Diffusion Art](https://docs.google.com/document/d/1wXrFKPq5wi4fK7y7Ww7ALf2yj1cVmJLbROO0b_u6y9A/edit?usp=sharing)
+  ## 📔 [Automating Runpod G-Drive Art Backups](https://stablediffusionguides.carrd.co/#gdrive)
   ### If you've followed my previous guide for how to get started on Runpod, and you're looking to set up automatic backups of your generations, this is the guide for you! Windows instructions coming soon!
